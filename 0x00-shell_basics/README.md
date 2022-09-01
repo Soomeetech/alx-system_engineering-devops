@@ -6,4 +6,5 @@ writing a script to display current directory content with the hidden files
 writing a script that display the content of a directory numerically
 writing a script that creates a directory in a directory
 writing a script that moves a file from a directory to another
-writing a script that deletes a file from a directory 
+writing a script that deletes a file from a directory
+A script that deletes a directory 
