@@ -11,4 +11,5 @@ A script that deletes a directory
 writing a script that changes the working directory to the previous one
 Writing a script that list all the files
 Scripts that list type of a file
-writing script that create a symbolic link 
+writing script that create a symbolic link
+writting that copy html file 
