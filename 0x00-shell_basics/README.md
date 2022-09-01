@@ -9,4 +9,5 @@ writing a script that moves a file from a directory to another
 writing a script that deletes a file from a directory
 A script that deletes a directory
 writing a script that changes the working directory to the previous one
-Writing a script that list all the files 
+Writing a script that list all the files
+Scripts that list type of a file 
