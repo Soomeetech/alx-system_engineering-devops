@@ -7,4 +7,5 @@ writing a script that display the content of a directory numerically
 writing a script that creates a directory in a directory
 writing a script that moves a file from a directory to another
 writing a script that deletes a file from a directory
-A script that deletes a directory 
+A script that deletes a directory
+writing a script that changes the working directory to the previous one 
