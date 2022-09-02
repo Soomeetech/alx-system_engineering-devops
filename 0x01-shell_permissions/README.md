@@ -12,4 +12,5 @@ writing script that gives referencoe
 script for directory permission
 writing that set permissions for dir
 writing script that change group
-writing script that change owner and group`
+writing script that change owner and group
+writing script for symbolic link permission
