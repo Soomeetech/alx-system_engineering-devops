@@ -15,3 +15,4 @@ writing script that change group
 writing script that change owner and group
 writing script for symbolic link permission
 writing script for if only
+writing script for star wars
