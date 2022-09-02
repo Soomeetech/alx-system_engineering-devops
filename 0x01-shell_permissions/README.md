@@ -8,3 +8,4 @@ writing a script that adds multiple permission
 writing script that sets mode for everybody
 writing script that set permission
 wriiting script that set mode for a file
+writing script that gives reference
