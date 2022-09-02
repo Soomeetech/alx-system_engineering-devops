@@ -4,3 +4,4 @@ writing script that prints all the groups of the current user
 writting script that changes owner
 writing script that creates an empty file
 Script that adds execute permission to the owner of a file
+writing a script that adds multiple permission
