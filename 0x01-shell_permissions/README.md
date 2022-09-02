@@ -10,4 +10,5 @@ writing script that set permission
 wriiting script that set mode for a file
 writing script that gives referencoe
 script for directory permission
-wriiting that set permissions for dir
+writing that set permissions for dir
+writing script that change group
