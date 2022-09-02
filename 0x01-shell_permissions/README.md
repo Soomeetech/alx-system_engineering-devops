@@ -5,3 +5,4 @@ writting script that changes owner
 writing script that creates an empty file
 Script that adds execute permission to the owner of a file
 writing a script that adds multiple permission
+writing script that sets mode for everybody
