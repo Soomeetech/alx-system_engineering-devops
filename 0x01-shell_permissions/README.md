@@ -7,3 +7,4 @@ Script that adds execute permission to the owner of a file
 writing a script that adds multiple permission
 writing script that sets mode for everybody
 writing script that set permission
+wriiting script that set mode for a file
